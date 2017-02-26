@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+  margin-top: 30px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 200px;
+  padding: 20px;
+  color: white;
+}
+
+.App-header h2 {
+  font-size: 2em;
+  font-weight: normal;
+}
+
+.App-body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.time-display {
+  font-size: 4em;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  margin: 5px;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 3px;
+  border-color: #51A7F9;
+  background: #fff;
+  outline: none;
+  cursor: pointer;
+}
